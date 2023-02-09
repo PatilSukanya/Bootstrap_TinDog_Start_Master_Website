@@ -1,1 +1,3 @@
-# Bootstrap_Tindog_Website
+## Bootstrap_Tindog_Website
+
+#### Functionalities Used:
